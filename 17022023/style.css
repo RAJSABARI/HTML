@@ -1,0 +1,115 @@
+body {
+    margin: 0px;
+    background-color: black;
+}
+
+.border {
+    color: cadetblue;
+    background-color: cadetblue;
+    padding-top: 70px;
+    border-style: solid;
+    border-bottom-right-radius: 100px;
+    border-top: 100px;
+}
+
+.fotter {
+    border-top-style: solid;
+    border-top-right-radius: 100%;
+    padding-right: 5px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    background-color: cadetblue;
+    color: cadetblue;
+}
+
+.onee {
+    display: flex;
+    flex-direction: column;
+}
+
+.one {
+    border: 8px solid black;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+}
+
+.secondd {
+    display: flex;
+    flex-direction: row;
+}
+
+.second {
+    border: 8px solid black;
+    background-color: rgb(236, 168, 9);
+    width: 100px;
+    height: 100px;
+}
+
+.third {
+    border: 8px solid black;
+    background-color: rgb(236, 168, 9);
+    width: 100px;
+    height: 100px;
+}
+
+.thirdd {
+    display: flex;
+    flex-direction: row;
+}
+
+.four {
+    border: 8px solid black;
+    background-color: rgb(126, 236, 9);
+    width: 100px;
+    height: 100px;
+}
+
+.five {
+    border: 8px solid black;
+    background-color: rgb(126, 236, 9);
+    width: 100px;
+    height: 100px;
+}
+
+.six {
+    border: 8px solid black;
+    background-color: rgb(126, 236, 9);
+    width: 100px;
+    height: 100px;
+}
+
+.fourthh {
+    display: flex;
+    flex-direction: row;
+}
+
+.seven {
+    border: 8px solid black;
+    background-color: rgb(54, 9, 236);
+    width: 100px;
+    height: 100px;
+}
+
+.eight {
+    border: 8px solid black;
+    background-color: rgb(54, 9, 236);
+    width: 100px;
+    height: 100px;
+}
+
+.nine {
+    border: 8px solid black;
+    background-color: rgb(54, 9, 236);
+    width: 100px;
+    height: 100px;
+}
+
+.ten {
+    border: 8px solid black;
+    background-color: rgb(54, 9, 236);
+    width: 100px;
+    height: 100px;
+}
