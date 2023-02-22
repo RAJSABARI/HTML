@@ -1,2 +1,4 @@
 HTML/CSS/JAVASCRIPT--->
-DAY WISE
+ReactJs--->
+Simple Expense Tracker-->
+
