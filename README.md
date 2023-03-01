@@ -1,4 +1,4 @@
 HTML/CSS/JAVASCRIPT--->
 ReactJs--->
-Simple Expense Tracker- ->
+Simple Expense Tracker-
 
